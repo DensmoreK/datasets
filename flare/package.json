@@ -1,10 +1,10 @@
 {
-  "name": "@densmorek/flare",
+  "name": "@DensmoreK/flare",
   "version": "0.0.0",
   "description": "The Flare package hierarchy.",
   "keywords": ["datasets"],
-  "homepage": "https://github.com/densmorek/datasets/tree/master/flare",
-  "repository": "https://github.com/densmorek/datasets/tree/master/flare",
+  "homepage": "https://github.com/DensmoreK/datasets/tree/master/flare",
+  "repository": "https://github.com/DensmoreK/datasets/tree/master/flare",
   "license": "ISC",
   "author": {
     "name": "KD",
