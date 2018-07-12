@@ -1,13 +1,13 @@
 {
-  "name": "@observablehq/flare",
+  "name": "@densmorek/flare",
   "version": "0.0.0",
   "description": "The Flare package hierarchy.",
   "keywords": ["datasets"],
-  "homepage": "https://github.com/observablehq/datasets/tree/master/flare",
-  "repository": "https://github.com/observablehq/datasets/tree/master/flare",
+  "homepage": "https://github.com/densmorek/datasets/tree/master/flare",
+  "repository": "https://github.com/densmorek/datasets/tree/master/flare",
   "license": "ISC",
   "author": {
-    "name": "Mike Bostock",
-    "url": "https://bost.ocks.org/mike"
+    "name": "KD",
+    "url": "https://www.densmoreconsulting.com.au"
   }
 }
